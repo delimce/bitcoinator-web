@@ -45,16 +45,17 @@
   }
 
   #footer-info {
-    position: absolute;
+    position:absolute;
     color: #F7F7F7;
     font-size: medium;
-    padding-top: 14px;
+    padding-top: 44px;
     bottom: 0px;
     left: 0px;
     width: 100%;
     height: 100px;
-    overflow: hidden;
+    overflow:hidden;
     margin: auto;
+    z-index: -1000;
   }
 
 
